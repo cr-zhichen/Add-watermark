@@ -1,7 +1,7 @@
 """
 文件作用：批量给图片加水印
 源码来源：https://github.com/2Dou/watermarker
-二改：cr-zhichen
+改动：https://github.com/cr-zhichen/zc--
 """
 
 import argparse
