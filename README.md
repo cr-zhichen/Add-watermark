@@ -7,7 +7,7 @@
 
 文件作用：批量给图片加水印  
 源码链接：[Github仓库链接](https://github.com/2Dou/watermarker)  
-二改：cr-zhichen  
+改动：[cr-zhichen](https://github.com/cr-zhichen/zc--)  
 
 ## 用法
 
