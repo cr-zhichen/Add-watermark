@@ -27,4 +27,4 @@
 
 ## 效果图片
 
-![测试图片](https://tc.chengrui.xyz/images/2020/06/12/Demoefdbb08c1b5b3d96.png)
+![测试图片](https://img-cdn.ccrui.cn/images/2020/06/12/Demoefdbb08c1b5b3d96.png)
